@@ -107,6 +107,8 @@
    - 1432 W San Carlos St, San Jose, CA 95126
 - Starbucks, 150 S 1st St ([link](https://goo.gl/maps/B9fYUGmZZ29PeRZx5))
    - 150 S 1st St, San Jose, CA 95113
+- Starbucks, W Santa Clara St ([link](https://goo.gl/maps/EGrAn54FwmKsU9tr6))
+   - 145 W Santa Clara St, San Jose, CA 95113
 
 #### Mountain View
 
