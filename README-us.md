@@ -172,6 +172,8 @@
 
 ### Los Angeles
 
+- ilCaffè ([link](https://goo.gl/maps/ipir8wPb6WtpGNHT7))
+   - 855 S Broadway, Los Angeles, CA 90003
 - Carrera Cafe ([link](https://goo.gl/maps/Sfo9nFTLgWeP5Dcp8))
    - 8251 Melrose Ave, Los Angeles, CA 90046
 - Alchemist Coffee Project ([link](https://goo.gl/maps/omPTKYfLnAthUrxX6))
