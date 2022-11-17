@@ -17,6 +17,8 @@
 
 ### Vancouver
 
+- Bel Café Downtown ([link](https://goo.gl/maps/S3rRJNr3wwRwGgXJ7))
+   - 801 W Georgia St, Vancouver, BC V6C 3G1, Canada
 - Propaganda coffee ([link](https://goo.gl/maps/cWtW8jaLGZwBewzq7))
    - 209 E Pender St, Vancouver, BC V6A 1T8, Canada
 - East Café ([link](https://goo.gl/maps/2CVAWhyGTNXHskVk9))
